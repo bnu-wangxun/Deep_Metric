@@ -1,9 +1,17 @@
-# Deep Metric Learning in PyTorch
+## NOtice 
+
+MS Loss code released, much higher code quality! much easier to be extended!
+url: https://github.com/MalongTech/research-ms-loss
+
+
+
+## Deep Metric Learning in PyTorch
+
  
      Learn deep metric for image retrieval or other information retrieval. 
 
            
-## Deep metric methods implemented in this repositories:
+### Deep metric methods implemented in this repositories:
 
 - Contrasstive Loss [1]
 
@@ -15,9 +23,9 @@
 
 - NCA Loss [6]
 
+- Multi-Similarity Loss [7]
 
-
-## Dataset
+### Dataset
 - [Car-196](http://ai.stanford.edu/~jkrause/cars/car_devkit.tgz)
 
    first 98 classes as train set and last 98 classes as test set
@@ -42,7 +50,7 @@
     To easily reimplement the performance, I provide the processed datasets: CUB and Cars-196. 
 
 
-## Requirements
+### Requirements
 * Python >= 3.5
 * PyTorch = 1.0
  
@@ -80,7 +88,7 @@ sh run_train_00.sh
 ```
 
 
-## References
+### References
 
 [1] [R. Hadsell, S. Chopra, and Y. LeCun. Dimensionality reduction
 by learning an invariant mapping]
@@ -103,5 +111,4 @@ matters in deep embedding learning. ICCV, 2017.]
 by preserving class neighbourhood structure. In
 AISTATS, 2007.]
 
-
-
+[7] [Multi-Similarity Loss with General Pair Weighting for Deep Metric Learning] [cvpr 2019]
