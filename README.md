@@ -112,4 +112,15 @@ matters in deep embedding learning. ICCV, 2017.]
 by preserving class neighbourhood structure. In
 AISTATS, 2007.]
 
-[7] [Multi-Similarity Loss with General Pair Weighting for Deep Metric Learning] [cvpr 2019]
+
+### Citation
+
+If you use this method or this code in your research, please cite as:
+
+    @inproceedings{wang2019multi,
+    title={Multi-Similarity Loss with General Pair Weighting for Deep Metric Learning},
+    author={Wang, Xun and Han, Xintong and Huang, Weilin and Dong, Dengke and Scott, Matthew R},
+    booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+    pages={5022--5030},
+    year={2019}
+    }
