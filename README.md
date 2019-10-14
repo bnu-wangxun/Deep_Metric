@@ -87,7 +87,8 @@ url: https://github.com/MalongTech/research-ms-loss
 ```bash
 sh run_train_00.sh
 ```
-
+### Other implementations:
+<p><a href="https://github.com/geonm/tf_ms_loss"> [Tensorflow]</a> (by geonm),
 
 ### References
 
