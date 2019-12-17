@@ -1,4 +1,17 @@
-## Notice 
+## Notice Dec. 17 2019 !!!
+
+## A New Sota method for DML:
+
+### Cross-Batch Memory for Embedding Learning (https://arxiv.org/pdf/1912.06798.pdf)
+
+  - #### Great Imprvement: XBM can improve the R@1 by 12~25% on three large-scale datasets
+
+  - #### Easy to implement: with only several lines of codes
+
+  - #### Memory efficient: with less than 1GB for large-scale dataset
+ 
+#### Code will be released soon!
+
 
 MS Loss code released, much higher code quality! much easier to be extended!
 
