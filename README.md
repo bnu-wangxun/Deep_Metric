@@ -1,6 +1,6 @@
-## Notice Dec. 17 2019 !!!
+### !!! Notice Dec. 17, 2019 
 
-## A New Sota method for DML:
+### XBM: A New Sota method for DML :
 
 ### Cross-Batch Memory for Embedding Learning (https://arxiv.org/pdf/1912.06798.pdf)
 
@@ -10,14 +10,11 @@
 
   - #### Memory efficient: with less than 1GB for large-scale dataset
  
-#### Code will be released soon!
+  - #### Code will be released soon!
 
-
+### MS Loss
 MS Loss code released, much higher code quality! much easier to be extended!
-
 url: https://github.com/MalongTech/research-ms-loss
-
-
 
 ## Deep Metric Learning in PyTorch
 
