@@ -1,8 +1,7 @@
-### !!! Notice Dec. 17, 2019 
 
-### XBM: A New Sota method for DML :
+### XBM: A New Sota method for DML, accepted by CVPR-2020 :
 
-### Cross-Batch Memory for Embedding Learning (https://arxiv.org/pdf/1912.06798.pdf)
+### Cross-Batch Memory for Embedding Learning (https://arxiv.org/pdf/1912.06798.pdf) 
 
   - #### Great Imprvement: XBM can improve the R@1 by 12~25% on three large-scale datasets
 
@@ -131,7 +130,13 @@ If you use this method or this code in your research, please cite as:
     @inproceedings{wang2019multi,
     title={Multi-Similarity Loss with General Pair Weighting for Deep Metric Learning},
     author={Wang, Xun and Han, Xintong and Huang, Weilin and Dong, Dengke and Scott, Matthew R},
-    booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-    pages={5022--5030},
+    booktitle={CVPR},
     year={2019}
+    }
+    
+    @inproceedings{wang2020xbm,
+    title={Cross-Batch Memory for Embedding Learning},
+    author={Wang, Xun and Zhang, haozhi and Huang, Weilin and Scott, Matthew R},
+    booktitle={CVPR},
+    year={2020}
     }
