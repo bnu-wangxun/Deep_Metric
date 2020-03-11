@@ -9,7 +9,7 @@
 
   - #### Memory efficient: with less than 1GB for large-scale dataset
  
-  - #### Code will be released soon!
+  - #### Code has already been released: [xbm](https://github.com/MalongTech/research-ms-loss/blob/master/ret_benchmark/modeling/xbm.py)
   
 #### Other implementations:
 [pytorch-metric-learning](https://kevinmusgrave.github.io/pytorch-metric-learning/losses/#crossbatchmemory)(a great work by Kevin Musgrave)
