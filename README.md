@@ -10,6 +10,9 @@
   - #### Memory efficient: with less than 1GB for large-scale dataset
  
   - #### Code will be released soon!
+ 
+Other implement: url: (https://kevinmusgrave.github.io/pytorch-metric-learning/losses/#crossbatchmemory)
+ 
 
 ### MS Loss
 MS Loss code released, much higher code quality! much easier to be extended!
