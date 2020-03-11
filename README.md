@@ -10,8 +10,9 @@
   - #### Memory efficient: with less than 1GB for large-scale dataset
  
   - #### Code will be released soon!
- 
-Other implement: url: (https://kevinmusgrave.github.io/pytorch-metric-learning/losses/#crossbatchmemory)
+  
+#### Other implementations:
+[pytorch-metric-learning](https://kevinmusgrave.github.io/pytorch-metric-learning/losses/#crossbatchmemory)(a great work by Kevin Musgrave)
  
 
 ### MS Loss
