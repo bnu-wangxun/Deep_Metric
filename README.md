@@ -1,5 +1,5 @@
 
-### XBM: A New Sota method for DML, accepted by CVPR-2020 :
+### XBM: A New Sota method for DML, accepted by CVPR-2020 as Oral:
 
 ### Cross-Batch Memory for Embedding Learning (https://arxiv.org/pdf/1912.06798.pdf) 
 
