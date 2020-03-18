@@ -15,8 +15,9 @@
 [pytorch-metric-learning](https://kevinmusgrave.github.io/pytorch-metric-learning/losses/#crossbatchmemory)(a great work by Kevin Musgrave)
  
 
-### MS Loss
-MS Loss code released, much higher code quality! much easier to be extended!
+### Multi-Similarity Loss with General Pair Weighting for Deep Metric Learning 
+### Accepted by CVPR 2019 as Poster
+MS Loss code released below:
 url: https://github.com/MalongTech/research-ms-loss
 
 ## Deep Metric Learning in PyTorch
