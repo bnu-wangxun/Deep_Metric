@@ -1,3 +1,6 @@
+## Deep Metric Learning in PyTorch
+
+     Learn deep metric for image retrieval or other information retrieval. 
 
 ### XBM: A New Sota method for DML, accepted by CVPR-2020 as Oral:
 
@@ -19,11 +22,6 @@
 ### Accepted by CVPR 2019 as Poster
 MS Loss code released below:
 url: https://github.com/MalongTech/research-ms-loss
-
-## Deep Metric Learning in PyTorch
-
- 
-     Learn deep metric for image retrieval or other information retrieval. 
 
            
 ### Deep metric methods implemented in this repositories:
