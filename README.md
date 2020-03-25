@@ -2,17 +2,16 @@
 
      Learn deep metric for image retrieval or other information retrieval. 
     
-Recomand one really excellent papers in DML not written by me:
+Recomand one recently released excellent papers in DML not written by me:
 
 #### [A Metric Learning Reality Check](https://arxiv.org/pdf/2003.08505.pdf)
 
 from Cornell Tech and Facebook AI
 
 Abstract: Deep metric learning papers from the past four years have consistently claimed great advances in accuracy, often more than doubling the performance of decade-old methods. In this paper, we take a closer look at the field to see if this is actually true. We find flaws in the experimental setup of these papers, and propose a new way to evaluate metric learning algorithms. Finally, we present experimental results that show that the improvements over time have been marginal at best.
-
-
-
-
+   
+  　　
+   
 ### XBM: A New Sota method for DML, accepted by CVPR-2020 as Oral:
 
 ### Cross-Batch Memory for Embedding Learning (https://arxiv.org/pdf/1912.06798.pdf) 
@@ -28,15 +27,16 @@ Abstract: Deep metric learning papers from the past four years have consistently
 #### Other implementations:
 [pytorch-metric-learning](https://kevinmusgrave.github.io/pytorch-metric-learning/losses/#crossbatchmemory)(a great work by Kevin Musgrave)
  
-
-
+　　
+　　
 
 ### MS Loss based GPW: Accepted by CVPR 2019 as Poster 
 ### Multi-Similarity Loss with General Pair Weighting for Deep Metric Learning 
 MS Loss code released below:
 url: https://github.com/MalongTech/research-ms-loss
 
-           
+ 
+ 　
 ### Deep metric methods implemented in this repositories:
 
 - Contrasstive Loss [1]
