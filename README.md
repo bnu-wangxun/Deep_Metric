@@ -12,6 +12,7 @@ Abstract: Deep metric learning papers from the past four years have consistently
 
 
 
+
 ### XBM: A New Sota method for DML, accepted by CVPR-2020 as Oral:
 
 ### Cross-Batch Memory for Embedding Learning (https://arxiv.org/pdf/1912.06798.pdf) 
@@ -27,6 +28,8 @@ Abstract: Deep metric learning papers from the past four years have consistently
 #### Other implementations:
 [pytorch-metric-learning](https://kevinmusgrave.github.io/pytorch-metric-learning/losses/#crossbatchmemory)(a great work by Kevin Musgrave)
  
+
+
 
 ### MS Loss based GPW: Accepted by CVPR 2019 as Poster 
 ### Multi-Similarity Loss with General Pair Weighting for Deep Metric Learning 
