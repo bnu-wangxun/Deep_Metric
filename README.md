@@ -31,9 +31,10 @@ Abstract: Deep metric learning papers from the past four years have consistently
 　　
 
 ### MS Loss based on GPW: Accepted by CVPR 2019 as Poster 
-### Multi-Similarity Loss with General Pair Weighting for Deep Metric Learning 
-MS Loss code released below:
-url: https://github.com/MalongTech/research-ms-loss
+### [Multi-Similarity Loss with General Pair Weighting for Deep Metric Learning](https://arxiv.org/pdf/1904.06627.pdf) 
+  - #### [code released link](https://github.com/MalongTech/research-ms-loss)
+  - #### [New Version of paper for more clear description of my ideas](https://arxiv.org/pdf/1904.06627.pdf)
+  
 
  
  　
