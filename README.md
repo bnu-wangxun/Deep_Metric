@@ -14,13 +14,13 @@ Abstract: Deep metric learning papers from the past four years have consistently
    
 ### XBM: A New Sota method for DML, accepted by CVPR-2020 as Oral:
 
-### Cross-Batch Memory for Embedding Learning (https://arxiv.org/pdf/1912.06798.pdf) 
+### [Cross-Batch Memory for Embedding Learning](https://arxiv.org/pdf/1912.06798.pdf) 
 
-  - #### Great Imprvement: XBM can improve the R@1 by 12~25% on three large-scale datasets
+  - #### Great Improvement: XBM can improve the R@1 by 12~25% on three large-scale datasets
 
   - #### Easy to implement: with only several lines of codes
 
-  - #### Memory efficient: with less than 1GB for large-scale dataset
+  - #### Memory efficient: with less than 1GB for large-scale datasets
  
   - #### Code has already been released: [xbm](https://github.com/MalongTech/research-ms-loss/blob/master/ret_benchmark/modeling/xbm.py)
   
@@ -33,7 +33,7 @@ Abstract: Deep metric learning papers from the past four years have consistently
 ### MS Loss based on GPW: Accepted by CVPR 2019 as Poster 
 ### [Multi-Similarity Loss with General Pair Weighting for Deep Metric Learning](https://arxiv.org/pdf/1904.06627.pdf) 
   - #### [code released link](https://github.com/MalongTech/research-ms-loss)
-  - #### [New Version of paper for more clear description of my ideas](https://arxiv.org/pdf/1904.06627.pdf)
+  - #### [Link of new Version of paper](https://arxiv.org/pdf/1904.06627.pdf), To express my idea clearly, I have rewritten the major part of paper recently. (at 2020-03-24)
   
 
  
