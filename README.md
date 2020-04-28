@@ -6,7 +6,9 @@
 #### One Blog on XBM in Zhihu
 
 我写了一个知乎文章，从想法动机的角度通俗快速的讲述了我们XBM论文的想法：
+
 [知乎](https://zhuanlan.zhihu.com/p/136522363) 
+
 欢迎大家阅读指点！
 
 
