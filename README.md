@@ -1,7 +1,16 @@
 ## Deep Metric Learning in PyTorch
 
      Learn deep metric for image retrieval or other information retrieval. 
-    
+
+
+#### One Blog on XBM in Zhihu
+
+我写了一个知乎文章，从想法动机的角度通俗快速的讲述了我们XBM论文的想法：
+[知乎](https://zhuanlan.zhihu.com/p/136522363) 
+欢迎大家阅读指点！
+
+
+
 Recomand one recently released excellent papers in DML not written by me:
 
 #### [A Metric Learning Reality Check](https://arxiv.org/pdf/2003.08505.pdf)
