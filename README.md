@@ -5,7 +5,7 @@
 
 #### One Blog on XBM in Zhihu
 
-我写了一个知乎文章，从想法动机的角度通俗快速的讲述了我们XBM论文的想法：
+我写了一个知乎文章，通俗快速解读了XBM想法动机：
 
 [跨越时空的难样本挖掘](https://zhuanlan.zhihu.com/p/136522363) 
 
