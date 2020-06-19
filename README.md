@@ -3,6 +3,9 @@
      Learn deep metric for image retrieval or other information retrieval. 
 
 
+#### congratulations! Our XBM is nominated as best paper in CVPR 2020! Hahaha! Happy!
+
+
 #### One Blog on XBM in Zhihu
 
 我写了一个知乎文章，通俗快速解读了XBM想法动机：
@@ -23,7 +26,7 @@ Abstract: Deep metric learning papers from the past four years have consistently
    
   　　
    
-### XBM: A New Sota method for DML, accepted by CVPR-2020 as Oral:
+### XBM: A New Sota method for DML, accepted by CVPR-2020 as Oral and nominated as best paper:
 
 ### [Cross-Batch Memory for Embedding Learning](https://arxiv.org/pdf/1912.06798.pdf) 
 
