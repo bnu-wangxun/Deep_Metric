@@ -3,7 +3,7 @@
      Learn deep metric for image retrieval or other information retrieval. 
 
 
-#### congratulations! Our XBM is nominated as best paper in CVPR 2020! Hahaha! Happy!
+#### Our XBM is nominated as best paper in CVPR 2020.
 
 
 #### One Blog on XBM in Zhihu
