@@ -16,7 +16,7 @@
 
 
 
-Recomand one recently released excellent papers in DML not written by me:
+Recommend one recently released excellent papers in DML not written by me:
 
 #### [A Metric Learning Reality Check](https://arxiv.org/pdf/2003.08505.pdf)
 
